@@ -1,0 +1,1 @@
+#print sum of 2 conseutive nodes in SLL
