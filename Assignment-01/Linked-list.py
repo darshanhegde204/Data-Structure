@@ -60,6 +60,7 @@ class LinkedList:
 ll=LinkedList()
 
 print("Traverse and printing the node values")
+n = int
 ll.append(Node(5))
 ll.append(Node(10))
 ll.append(Node(-3))
